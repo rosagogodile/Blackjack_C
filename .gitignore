@@ -92,3 +92,4 @@ Game.exe
 libCards.a
 libLinkedList.a
 libPlayer.a
+Makefile
